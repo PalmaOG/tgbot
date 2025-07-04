@@ -7,7 +7,7 @@ class Settings:
     DB_PASS = "root"
 
 
-    BOT_TOKEN = "7523785900:AAHuHFX6KkI-W0eSCDrnhliCWZBf8W4D5q8"
+    BOT_TOKEN = ""
 
     @staticmethod
     def db_config():
